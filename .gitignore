@@ -1,0 +1,16 @@
+# Archivos temporales de compilación de Arduino
+build/
+bin/
+*.elf
+*.hex
+*.o
+*.a
+
+# Archivos de configuración de sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Configuraciones locales de IDEs (VS Code, PlatformIO, etc.)
+.vscode/
+.pio/
+.clang-format
